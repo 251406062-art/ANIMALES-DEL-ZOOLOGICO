@@ -1,0 +1,15 @@
+<html lang="en">
+<head><title>Pelicula 1</title></head>
+<body bgcolor="black" text="white">
+<CENTER>
+    <h1>gerra mundial</h1>
+    <IMG src="img/peli1.jpg" width="350"></IMG>
+    <br><br>
+    <p>Es mi favorita porque es de magia y aventura en Narnia.</p>
+    <br><br>
+    <a href="index.html">Ir al indice</a>
+    <br><br>
+    <a href="https://www.netflix.com">Ver en Netflix</a>
+</CENTER>
+</body>
+</html>
